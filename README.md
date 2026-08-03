@@ -1,92 +1,132 @@
-# Hi there, I'm Ashish 👋
+```markdown
+<h1 align="center">Hi 👋, I'm Ashish Sunil</h1>
 
-💻 **Aspiring Software Developer** from Kerala, India
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Aspiring+Software+Developer;AI+%7C+Cybersecurity+Enthusiast;Full-Stack+Web+Developer;Building+Projects+That+Matter" alt="Typing SVG" />
+  </a>
+</p>
 
-I'm passionate about building software that solves real problems. I enjoy exploring **Artificial Intelligence**, **Cybersecurity**, and **Full-Stack Web Development**, while constantly improving my programming skills through hands-on projects.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=haruki-4160&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Computer Science enthusiast
-* 🌱 Currently learning modern software development and expanding my knowledge in AI and cybersecurity
-* 🤖 Love creating Discord bots, automation tools, and web applications
-* 💡 Always looking for new technologies and challenging projects
-* 🎯 Goal: Build impactful software and grow into an AI/Cybersecurity Engineer
+<table>
+<tr>
+<td width="50%">
+
+- 🎓 Computer Science Student
+- 💻 Passionate about Software Development
+- 🤖 Exploring Artificial Intelligence
+- 🔐 Learning Cybersecurity
+- 🌐 Building Full-Stack Web Applications
+- 🤖 Creating Discord Bots & Automation
+- 🎯 Goal: Become an AI & Cybersecurity Engineer
+
+</td>
+
+<td width="50%">
+
+### 🌱 Currently Learning
+
+- ⚛️ React
+- 🟢 Node.js
+- 🐍 Python
+- 🔗 REST APIs
+- 🗄️ Databases
+- ☁️ Git & GitHub
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-* Python
-* JavaScript
-* HTML5
-* CSS3
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
 
-**Currently Learning**
+### Frameworks & Tools
 
-* React
-* Node.js
-* APIs
-* Databases
-* AI Fundamentals
-* Cybersecurity Concepts
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode,mongodb" />
+</p>
 
-**Tools**
+### Interests
 
-* Git
-* GitHub
-* Visual Studio Code
+<p>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+<img src="https://img.shields.io/badge/Open%20Source-111827?style=for-the-badge&logo=github"/>
+</p>
 
 ---
 
-## 📌 What I'm Working On
+## 📊 GitHub Analytics
 
-* 🌐 Personal portfolio website
-* 🤖 Discord bots with useful features
-* 🧠 AI-powered applications
-* 🔒 Beginner cybersecurity projects
-* 💻 Open-source learning projects
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=haruki-4160&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=haruki-4160&theme=tokyonight&hide_border=true" />
+</p>
 
----
-
-## 📈 Current Focus
-
-🌐 Web Development
-🐍 Python
-⚛️ React
-🤖 Artificial Intelligence
-🔐 Cybersecurity
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruki-4160&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
-* 💼 Portfolio Website
-* 🤖 Discord Bot
-* 🔐 Security Tools
-* 📚 Learning Projects
-
----
-
-## 📊 GitHub Goals
-
-* Build high-quality open-source projects
-* Learn something new every week
-* Write clean, maintainable code
-* Collaborate with other developers
-* Continuously improve as a software engineer
+| Project | Description |
+|---------|-------------|
+| 🌐 Portfolio Website | Personal developer portfolio |
+| 🤖 Discord Bot | Multipurpose Discord bot |
+| 🧠 AI Projects | AI experiments & applications |
+| 🔒 Security Projects | Beginner cybersecurity tools |
 
 ---
 
-## 📫 Let's Connect
+## 🎯 2026 Goals
 
-* 💼 LinkedIn: https://www.linkedin.com/in/ashish-sunil-159503364/
-* 📧 Email: [ashishsunil4160@gmail.com](mailto:ashishsunil4160@gmail.com)
-* 🌐 Portfolio: *(Coming Soon)*
+- 🚀 Build impactful open-source projects
+- 📚 Learn something new every week
+- 💡 Write clean, maintainable code
+- 🤝 Collaborate with developers
+- ⭐ Grow as an AI & Cybersecurity Engineer
 
 ---
 
-> *"Great software isn't just written—it's refined, one commit at a time."* 🚀
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/ashish-sunil-159503364/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ashishsunil4160@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6C63FF?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> **"Great software isn't just written. It's refined, one commit at a time."** 🚀
+
+</p>
+```
