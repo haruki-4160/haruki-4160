@@ -102,6 +102,8 @@ DEVELOPMENT
 <img src="https://img.shields.io/badge/LINKEDIN-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<img src="https://img.shields.io/badge/DISCORD-lunar_.ash-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+
 <a href="mailto:ashishsunil4160@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -115,11 +117,6 @@ DEVELOPMENT
 <p align="center">
   <sub>Open to collaboration · student projects · interesting ideas</sub>
 </p>
-
-<p align="center">
-  <sub>© 2026 Ashish Sunil</sub>
-</p>
-
 
 <p align="center">
   <sub>© 2026 Ashish Sunil</sub>
