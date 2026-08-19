@@ -2,8 +2,6 @@
 
 <p align="center">
   <code>B.Tech CSE — Cyber Security</code>
-  &nbsp;·&nbsp;
-  <code>1st Year</code>
 </p>
 
 <p align="center">
@@ -92,22 +90,13 @@ DEVELOPMENT
 
 ---
 
-## 06 / GITHUB
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=haruki-4160&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=haruki-4160&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruki-4160&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 07 / CONNECT
 
 <p align="center">
+
+<a href="https://github.com/haruki-4160">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/ashish-sunil-159503364/">
 <img src="https://img.shields.io/badge/LINKEDIN-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -117,7 +106,20 @@ DEVELOPMENT
 <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="#">
+<img src="https://img.shields.io/badge/PORTFOLIO-COMING%20SOON-111827?style=for-the-badge"/>
+</a>
+
 </p>
+
+<p align="center">
+  <sub>Open to collaboration · student projects · interesting ideas</sub>
+</p>
+
+<p align="center">
+  <sub>© 2026 Ashish Sunil</sub>
+</p>
+
 
 <p align="center">
   <sub>© 2026 Ashish Sunil</sub>
