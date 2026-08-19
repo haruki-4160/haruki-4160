@@ -1,159 +1,124 @@
-<h1 align="center">Hi, I'm Ashish Sunil 👋</h1>
+<h1 align="center">ASHISH SUNIL</h1>
+
+<p align="center">
+  <code>B.Tech CSE — Cyber Security</code>
+  &nbsp;·&nbsp;
+  <code>1st Year</code>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Software+Developer;AI+%7C+Cybersecurity+Enthusiast;Full-Stack+Web+Developer;Discord+Bot+Developer;Building+Things+I+Find+Interesting" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=650&lines=Python+Developer;Discord+Bot+Developer;Cybersecurity+Explorer;Frontend+%26+UI+Enthusiast" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=haruki-4160&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=haruki-4160&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 01 / PROFILE
 
-I'm a Computer Science student who enjoys turning ideas into working software.
-
-My interests sit around **software development, artificial intelligence, cybersecurity, automation, and web development**. I also enjoy building Discord bots and systems, experimenting with new technologies, and creating projects for communities and events.
-
-* 💻 Software & Full-Stack Development
-* 🤖 Artificial Intelligence & Automation
-* 🔐 Cybersecurity & Security Research
-* 🌐 Web Applications & Interactive Experiences
-* 🤖 Discord Bots & Community Systems
-* 🧪 Learning by building real projects
-
-> **I learn by building, breaking, improving, and building again.**
+```text
+NAME        Ashish Sunil
+EDUCATION   B.Tech CSE — Cyber Security
+YEAR        First Year
+FOCUS       Cybersecurity
+PRIMARY     Python
+SPECIALTY   Discord Bot Development
+INTERESTS   Frontend · UI · AI · Software
+```
 
 ---
 
-## 🚀 What I'm Working With
+## 02 / WHAT I BUILD
 
-### Languages
+**Discord Systems**
+Moderation bots, utilities, community systems and integrations.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
-</p>
+**Web Experiences**
+Frontend interfaces, event websites and experimental designs.
 
-### Frameworks & Technologies
+**Software Projects**
+Small tools and applications built to learn, experiment and solve problems.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,git,github,vscode" />
-</p>
-
-### Exploring
-
-<p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-6C63FF?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-  <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=githubactions&logoColor=white" />
-</p>
+**AI-Assisted Development**
+Using AI to research, prototype, debug and accelerate development while understanding and maintaining the resulting code.
 
 ---
 
-## 🌟 Featured Projects
+## 03 / SELECTED WORK
 
-### 🤖 Celeste
-
-A Discord moderation and utility bot focused on making server management simpler, safer, and more powerful.
-
-**Focus:** Discord • Moderation • Automation • Community Management
-
----
-
-### 🎵 Celune
-
-A Discord music bot built around providing a dedicated music experience for communities.
-
-**Focus:** Discord • Music • Bot Development
+| PROJECT                | TYPE               | STACK               |
+| ---------------------- | ------------------ | ------------------- |
+| **Celeste**            | Discord Moderation | Python · Discord.py |
+| **Celune**             | Discord Music      | Python · Discord    |
+| **Sryaa**              | Discord Chat       | Python · Discord    |
+| **Portfolio**          | Web                | React · Frontend    |
+| **Squid Game Website** | Event Website      | Frontend · UI       |
 
 ---
 
-### 💬 Sryaa
-
-A conversational Discord bot project focused on interaction and community features.
-
-**Focus:** Discord • Chat • Automation
-
----
-
-### 🌐 Portfolio
-
-My personal developer portfolio — a place to showcase my projects, skills, and work.
-
-**Focus:** Web Development • UI/UX • Frontend
-
----
-
-### 🎭 Squid Game Website
-
-An interactive themed website created for an event, inspired by the visual atmosphere and game-show presentation of *Squid Game*.
-
-**Focus:** Web Development • Interactive Design • Event Technology
-
----
-
-## 📊 GitHub Analytics
+## 04 / STACK
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=haruki-4160&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=haruki-4160&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb,mysql,html,css,git,github,vscode" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruki-4160&layout=compact&theme=tokyonight&hide_border=true" />
+  <sub>
+    Python · React · Node.js · SQL · MongoDB · HTML · CSS · Git
+  </sub>
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 05 / CURRENTLY EXPLORING
 
-* 🚀 Building better and more complete software projects
-* 🤖 Exploring practical AI applications
-* 🔐 Developing my cybersecurity knowledge
-* 🌐 Improving my full-stack development skills
-* 🧠 Strengthening my programming fundamentals
-* 🛠️ Turning ideas into usable products
+```text
+CYBERSECURITY
+├── Security Fundamentals
+├── Application Security
+├── Systems & Networks
+└── Exploring Different Domains
 
----
-
-## 📌 What's Next
-
-**[EDIT THIS SECTION]**
-
-Projects / technologies / goals I want to work on next:
-
-*
-*
-*
-*
+DEVELOPMENT
+├── JavaScript
+├── APIs / REST
+├── Linux
+└── Software Architecture
+```
 
 ---
 
-## 🌐 Connect With Me
+## 06 / GITHUB
 
-<p align="left">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=haruki-4160&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=haruki-4160&theme=tokyonight&hide_border=true" />
+</p>
 
-<a href="https://www.linkedin.com/in/ashish-sunil-159503364/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haruki-4160&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 07 / CONNECT
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ashish-sunil-159503364/">
+<img src="https://img.shields.io/badge/LINKEDIN-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ashishsunil4160@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
----
-
 <p align="center">
-
-### ✦ Building. Learning. Improving. ✦
-
+  <sub>© 2026 Ashish Sunil</sub>
 </p>
