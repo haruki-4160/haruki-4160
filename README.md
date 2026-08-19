@@ -94,10 +94,6 @@ DEVELOPMENT
 
 <p align="center">
 
-<a href="https://github.com/haruki-4160">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://www.linkedin.com/in/ashish-sunil-159503364/">
 <img src="https://img.shields.io/badge/LINKEDIN-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
