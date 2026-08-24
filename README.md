@@ -90,7 +90,7 @@ DEVELOPMENT
 
 ---
 
-## 07 / CONNECT
+## 06 / CONNECT
 
 <p align="center">
 
