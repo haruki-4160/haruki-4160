@@ -52,7 +52,7 @@ Using AI to research, prototype, debug and accelerate development while understa
 | ---------------------- | ------------------ | ------------------- |
 | **Celeste**            | Discord Moderation | Python · Discord.py |
 | **Celune**             | Discord Music      | Python · Discord    |
-| **Sryaa**              | Discord Chat       | Python · Discord    |
+| **Syraa**              | Discord Chat       | Python · Discord    |
 | **Portfolio**          | Web                | React · Frontend    |
 | **Squid Game Website** | Event Website      | Frontend · UI       |
 
