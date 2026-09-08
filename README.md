@@ -104,8 +104,8 @@ DEVELOPMENT
 <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/PORTFOLIO-COMING%20SOON-111827?style=for-the-badge"/>
+<a href="https://haruki-portfolio-five.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO111827?style=for-the-badge"/>
 </a>
 
 </p>
